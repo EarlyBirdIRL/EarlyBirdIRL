@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EarlyBirdIRL and shit
+- 👋 Hi, I’m @Birb and shit
 - 👀 I’m interested in Coding and shit
 - 🌱 I’m currently learning Python and shit
 - 💞️ I’m looking to collaborate on Nothing ans shit
