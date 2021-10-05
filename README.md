@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Birb and shit
 - 👀 I’m interested in Coding and shit
 - 🌱 I’m currently learning Python and shit
-- 💞️ I’m looking to collaborate on Nothing ans shit
+- 💞️ I’m looking to collaborate on Nothing and shit
 - 📫 How to reach me Nothing and shit
 <!---
 EarlyBirdIRL/EarlyBirdIRL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
